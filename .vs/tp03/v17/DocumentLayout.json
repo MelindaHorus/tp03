@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melin\\source\\repos\\tp03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\tp03.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\tp03.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\models\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\models\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\migrations\\202411120607408_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\migrations\\202411120607408_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\migrations\\202411120559490_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\migrations\\202411120559490_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|c:\\users\\melin\\source\\repos\\tp03\\tp03\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6D95-0D3B-4EF3-9702-4004D23D943B}|tp03\\tp03.csproj|solutionrelative:tp03\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tp03",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\tp03.csproj",
+              "RelativeDocumentMoniker": "tp03\\tp03.csproj",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\tp03.csproj",
+              "RelativeToolTip": "tp03\\tp03.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T11:40:27.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "tp03\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Models\\Produto.cs",
+              "RelativeToolTip": "tp03\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:58:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Models\\ProdutoContext.cs",
+              "RelativeDocumentMoniker": "tp03\\Models\\ProdutoContext.cs",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Models\\ProdutoContext.cs",
+              "RelativeToolTip": "tp03\\Models\\ProdutoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:58:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "tp03\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "tp03\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:24:11.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "tp03\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "tp03\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T11:29:41.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tp03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tp03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:27:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Delete.cshtml",
+              "RelativeDocumentMoniker": "tp03\\Views\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Delete.cshtml",
+              "RelativeToolTip": "tp03\\Views\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:33:48.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Create.cshtml",
+              "RelativeDocumentMoniker": "tp03\\Views\\Create.cshtml",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Views\\Create.cshtml",
+              "RelativeToolTip": "tp03\\Views\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:31:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\appsettings.json",
+              "RelativeDocumentMoniker": "tp03\\appsettings.json",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\appsettings.json",
+              "RelativeToolTip": "tp03\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T05:54:10.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202411120607408_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Migrations\\202411120607408_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "tp03\\Migrations\\202411120607408_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Migrations\\202411120607408_InitialCreate1.cs",
+              "RelativeToolTip": "tp03\\Migrations\\202411120607408_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:07:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202411120559490_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Migrations\\202411120559490_InitialCreate.cs",
+              "RelativeDocumentMoniker": "tp03\\Migrations\\202411120559490_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Migrations\\202411120559490_InitialCreate.cs",
+              "RelativeToolTip": "tp03\\Migrations\\202411120559490_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:59:49.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "tp03\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\melin\\source\\repos\\tp03\\tp03\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "tp03\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:59:36.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

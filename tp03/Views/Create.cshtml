@@ -1,0 +1,23 @@
+﻿@model Produto
+
+<h2>Cadastrar Produto</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.Nome)
+    @Html.EditorFor(model => model.Nome)
+    @Html.ValidationMessageFor(model => model.Nome)
+
+    @Html.LabelFor(model => model.Descricao)
+    @Html.EditorFor(model => model.Descricao)
+    @Html.ValidationMessageFor(model => model.Descricao)
+
+    @Html.LabelFor(model => model.Preco)
+    @Html.EditorFor(model => model.Preco)
+    @Html.ValidationMessageFor(model => model.Preco)
+
+    @Html.LabelFor(model => model.QuantidadeEmEstoque)
+    @Html.EditorFor(model => model.QuantidadeEmEstoque)
+    @Html.ValidationMessageFor(model => model.QuantidadeEmEstoque)
+
+<button type="submit">Salvar</button>
+}
